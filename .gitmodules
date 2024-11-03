@@ -1,0 +1,15 @@
+[submodule "l01"]
+	path = l01
+	url = git@github.com:piotrdurniat/representation-learning-l01.git
+[submodule "l02"]
+	path = l02
+	url = git@github.com:piotrdurniat/representation-learning-l02.git
+[submodule "l03"]
+	path = l03
+	url = git@github.com:piotrdurniat/representation-learning-l03.git
+[submodule "l04"]
+	path = l04
+	url = git@github.com:piotrdurniat/representation-learning-l04.git
+[submodule "l05"]
+	path = l05
+	url = git@github.com:piotrdurniat/representation-learning-l05.git
